@@ -1,6 +1,6 @@
-# AI Finance Platform
+# FinForge
 
-A modern financial management application built with Next.js, Prisma, and Tailwind CSS. This platform helps users track expenses, manage budgets, and gain insights into their financial health.
+A modern financial management platform built with Next.js, Prisma, and Tailwind CSS. FinForge helps users track expenses, manage budgets, and gain insights into their financial health.
 
 ## Features
 
@@ -31,8 +31,8 @@ A modern financial management application built with Next.js, Prisma, and Tailwi
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/spicynick111/Ai-finance-platforn.git
-   cd Ai-finance-platforn
+   git clone https://github.com/spicynick111/FinForge-.git
+   cd FinForge-
    ```
 
 2. Install dependencies
@@ -45,7 +45,7 @@ A modern financial management application built with Next.js, Prisma, and Tailwi
 3. Set up environment variables
    Create a `.env` file in the root directory with the following variables:
    ```
-   DATABASE_URL="postgresql://username:password@localhost:5432/ai_finance"
+   DATABASE_URL="postgresql://username:password@localhost:5432/finforge"
    NEXTAUTH_SECRET="your-secret-key"
    NEXTAUTH_URL="http://localhost:3000"
    ```
