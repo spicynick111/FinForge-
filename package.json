@@ -5,7 +5,7 @@
   "author": "SpicyNick111",
   "repository": {
     "type": "git",
-    "url": "https://github.com/spicynick111/Ai-finance-platform.git"
+    "url": "https://github.com/spicynick111/Ai-finance-platforn.git"
   },
   "scripts": {
     "dev": "next dev --turbopack",

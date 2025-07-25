@@ -31,8 +31,8 @@ A modern financial management application built with Next.js, Prisma, and Tailwi
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/spicynick111/Ai-finance-platform.git
-   cd Ai-finance-platform
+   git clone https://github.com/spicynick111/Ai-finance-platforn.git
+   cd Ai-finance-platforn
    ```
 
 2. Install dependencies
